@@ -25,10 +25,6 @@ List of online courses and general resources that I have found over time. I have
 * [wintellectNOW](https://www.wintellectnow.com/)
 * [Google machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
-### Devops
-* [Linux Academy](https://linuxacademy.com/)
-* [opsgility](https://www.opsgility.com/)
-
 #### Interactive programming
 
 * [codeAcademy](https://www.codecademy.com/learn)
@@ -37,6 +33,10 @@ List of online courses and general resources that I have found over time. I have
 #### CTF challenges
 
 * [Micro Corruption](https://microcorruption.com/about)
+
+### Devops
+* [Linux Academy](https://linuxacademy.com/)
+* [opsgility](https://www.opsgility.com/)
 
 ### Skills
 
