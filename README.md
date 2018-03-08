@@ -18,7 +18,6 @@ List of online courses and general resources that I have found over time. I have
 ### Programming/Data science
 
 * [Pluralsight](https://www.pluralsight.com/)
-
 * [Treehouse](https://teamtreehouse.com/)
 * [ZENVA Academy](https://academy.zenva.com/)
 * [Xamarin University](https://university.xamarin.com/)
