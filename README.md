@@ -1,8 +1,12 @@
 # Online-learning-resources
 List of online courses and general resources that I have found over time. I haven't  treid most of them, so experiences are welcome. Also if I missed some create pull request, or open an issue, I will look it up and add it.
 
-
 ## Webpages / Online Courses
+
+### Free for students
+
+* [My Visual studio](https://my.visualstudio.com/benefits)
+* [Github student pack](https://education.github.com/)
 
 ### Academic courses
 
@@ -14,10 +18,17 @@ List of online courses and general resources that I have found over time. I have
 ### Programming/Data science
 
 * [Pluralsight](https://www.pluralsight.com/)
-* [Linux Academy](https://linuxacademy.com/)
+
 * [Treehouse](https://teamtreehouse.com/)
 * [ZENVA Academy](https://academy.zenva.com/)
+* [Xamarin University](https://university.xamarin.com/)
+* [DataCamp](https://www.datacamp.com/)
+* [wintellectNOW](https://www.wintellectnow.com/)
 * [Google machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+### Devops
+* [Linux Academy](https://linuxacademy.com/)
+* [opsgility](https://www.opsgility.com/)
 
 #### Interactive programming
 
