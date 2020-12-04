@@ -14,6 +14,11 @@ List of online courses and general resources that I have found over time. I have
 * [Udacity](https://udacity.com)
 * [edX](https://www.edx.org/)
 * [Udemy](https://www.udemy.com/)
+* [The Great Courses Plus](https://www.thegreatcoursesplus.com/)
+
+### A bit of everything
+
+* [Skillshare](https://www.skillshare.com/)
 
 ### Programming/Data science
 
@@ -29,6 +34,7 @@ List of online courses and general resources that I have found over time. I have
 
 * [codeAcademy](https://www.codecademy.com/learn)
 * [CodinGame](https://www.codingame.com/start)
+* [Brilliant](https://brilliant.org/)
 
 #### CTF challenges
 
